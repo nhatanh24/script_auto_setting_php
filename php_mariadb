@@ -22,5 +22,3 @@ sudo systemctl start mariadb
 sudo systemctl enable mariadb
 
 sudo mariadb-secure-installation
-
-root Admin@123
